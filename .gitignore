@@ -1,0 +1,7 @@
+*.pro.user
+
+# objects and binaries
+*.o
+Makefile
+vkautoreply
+
